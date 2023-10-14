@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+}
+.text-block{
+    float: left;
+    box-sizing: border-box;
+}
+.text-block-item{
+    width: 210px;
+    background-color: white;
+    height: 400px;
+    border: 2px solid lightgray;
+    margin-left: 200px;
+    margin-top: 100px;
+    text-align: center;
+}
+.text-block-item1{
+    width: 210px;
+    background-color: white;
+    height: 400px;
+    border: 2px solid lightgray;
+    margin-left: 450px;
+    margin-top: -403px;
+    text-align: center;
+
+}
+.text-block-item2{
+    width: 210px;
+    background-color: white;
+    height: 400px;
+    border: 2px solid lightgray;
+    margin-left: 700px;
+    margin-top: -403px;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}

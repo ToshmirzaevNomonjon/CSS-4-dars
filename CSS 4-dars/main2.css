@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+}
+.text-block{
+    margin-top: 100px;
+    width: 1200px;
+    border: 1px solid white;
+    background-color: white;
+}
+.text-block-item{
+    margin-left: 350px;
+}
+.text-block-item1{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.text-block-item2{
+    margin-left: 50px;
+}
+.text-block-item3{
+    margin-left: 50px;
+}
+.text-block-item4{
+    margin-left: 80px;
+}
+.text-block-item5{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.main{
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 450px;
+    margin-left: 300px;
+    float: left;
+}
+.main1{
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 450px;
+    margin-left: 700px;
+}
+.apple{
+    margin-left: -50px;
+}

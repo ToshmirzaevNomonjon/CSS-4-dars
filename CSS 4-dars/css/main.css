@@ -1,0 +1,90 @@
+body{
+    background-color: #c8e9f0;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #ffffff;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 25px 10px;
+}
+.navbar-item a{
+    color: grey;
+    text-decoration: none;
+}
+.flex-box{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+.flex-item{
+    /*border: 5px solid red;*/
+    padding: 10px 15px;
+}
+.flex-item p{
+    background-color: white;
+    padding: 16px;
+}
+.navbar-item:hover{
+    background-color: #f1f1f1;
+}
+.navbar-item:hover a{
+    color: #34c9cb;
+}
+
+.wrap{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: white;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.wrab{
+    width: 1200px;
+   margin: 10px auto;
+    background-color: white;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn{
+    display: inline-block;
+    padding: 14px 26px;
+    text-decoration: none;
+    color: white;background-color: #34c9cb;
+    border-bottom: 8px solid #248f91;
+    border-radius: 8px;
+    transition: all 10s ease;
+}
+.btn:active{
+    margin-top: 4px;
+    border-bottom-width: 4px;
+}
+.btn:focus{
+    margin-top: 4px;
+    border-bottom-width: 4px;
+}
+.btn:hover{
+    border-radius: 28px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 250px;
+}
+.sticky{
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+
+
+
+
+
+
+
